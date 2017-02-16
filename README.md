@@ -1,2 +1,2 @@
 # my little project.
- - simple port scanner in Python
+ - simple port scanner TCP/IP Protocol , in Python
